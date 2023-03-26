@@ -8,4 +8,4 @@ But there was one crucial point. Tasks were not being saved when browser window 
 In that way second version was created. Now app stores tasks (as JSON) in browser local storage and read them every time when site is being opened.
 
 # Enjoy!
-Use app here: https://dominikkoniarz.github.io/To-Do-List-App/
+Use app [here](https://dominikkoniarz.github.io/To-Do-List-App/).
